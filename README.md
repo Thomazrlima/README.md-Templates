@@ -1,4 +1,4 @@
-# 📜 README.md Templates
+# README.md Templates
 
 <div id="top" align="center">
     <a href="https://github.com/Thomazrlima/MyAnimeList-Theme#readme">
