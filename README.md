@@ -72,8 +72,8 @@ Feel free to contribute by adding new templates or improving existing ones! Foll
 
 ## 👨‍👩‍👧‍👦 Contribuintes
   
-<a href="https://github.com/README.md-Templates/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=README.md-Templates" />
+<a href="https://github.com/Thomazrlima/README.md-Templatess/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Thomazrlima/README.md-Templates" />
 </a>
 
 ## ⚖️ License
