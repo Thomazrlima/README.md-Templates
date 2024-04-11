@@ -41,23 +41,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 1. Lorem Ipsum has been the industry's standard
 2. Lorem Ipsum has been the industry's standard
 3. Lorem Ipsum has been the industry's standard
-4. Lorem Ipsum has been the industry's standard
-5. Lorem Ipsum has been the industry's standard
-6. Lorem Ipsum has been the industry's standard
-7. Lorem Ipsum has been the industry's standard
-8. Lorem Ipsum has been the industry's standard
-9. Lorem Ipsum has been the industry's standard
 
-## ⚙ Tecnologias Utilizadas
+## ♟️ Entregas
 
-1. Lorem Ipsum has been the industry's standard
-2. Lorem Ipsum has been the industry's standard
-3. Lorem Ipsum has been the industry's standard
-4. Lorem Ipsum has been the industry's standard
-5. Lorem Ipsum has been the industry's standard
-6. Lorem Ipsum has been the industry's standard
+<details>
 
-<p>Links Importantes</p>
+<summary>Links Importantes</summary>
 <ul>
   <li>
     <a  href=""
@@ -91,7 +80,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </li>
 </ul>
 
-<p>Entrega 2</p>
+</details>
+<details>
+
+<summary>Entrega 2</summary>
 <ul>
   <li>
     <a  href=""
@@ -120,7 +112,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </li>
 </ul>
 
-<p>Entrega 3</p>
+</details>
+<details>
+
+<summary>Entrega 3</summary>
+
 <ul>
   <li>
     <a  href=""
@@ -159,7 +155,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </li>
 </ul>
 
-<p>Entrega 4</p>
+</details>
+<details>
+
+<summary>Entrega 4</summary>
 <ul>
   <li>
     <a  href=""
@@ -203,6 +202,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </li>
 </ul>
 
+</details>
+
 ## 👩‍💻 Membros
 
 <ul>
@@ -226,14 +227,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </li>
 </ul>
 
-## 😊 Agradecimentos Especiais
-
-<ul>
-  <li>
-    <a href="">Nome XY</a> - Fez alguma coisa
-  </li>
-</ul>
-  
 <table>
   <tr>
     <td align="center">
@@ -286,6 +279,14 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
     </td>
   </tr>
 </table>
+
+## 😊 Agradecimentos Especiais
+
+<ul>
+  <li>
+    <a href="">Nome XY</a> - Fez alguma coisa
+  </li>
+</ul>
 
 ## License
 
