@@ -15,20 +15,20 @@
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/repo-size/Thomazrlima/Udemy_Courses?style=flat"
+    src="https://img.shields.io/github/repo-size/Thomazrlima/README.md-Templates?style=flat"
     alt="Repository Size"
   />
   <img
-    src="https://img.shields.io/github/languages/count/Thomazrlima/Udemy_Courses?style=flat&logo=python"
+    src="https://img.shields.io/github/languages/count/Thomazrlima/README.md-Templates?style=flat&logo=python"
     alt="Language Count"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/t/Thomazrlima/Udemy_Courses?style=flat&logo=github"
+    src="https://img.shields.io/github/commit-activity/t/Thomazrlima/README.md-Templates?style=flat&logo=github"
     alt="Commit Activity"
   />
   <a href="LICENSE.md"
     ><img
-      src="https://img.shields.io/github/license/Thomazrlima/Udemy_Courses"
+      src="https://img.shields.io/github/license/Thomazrlima/README.md-Templates"
       alt="License"
   /></a>
 </p>
